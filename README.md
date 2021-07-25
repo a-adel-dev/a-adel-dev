@@ -2,7 +2,7 @@
 - 👀 I’m interested in research, videogames
 - 🌱 I’m currently learning unity C#
 - 💞️ I’m looking to collaborate on creating videogames
-- 📫 How to reach me on github
+<!--- 📫 How to reach me on github-->
 
 <!---
 a-adel-dev/a-adel-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
