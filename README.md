@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @a-adel-dev
-- 👀 I’m interested in research, videogames
-- 🌱 I’m currently learning unity C#
-- 💞️ I’m looking to collaborate on creating videogames
+- 👀 I’m interested in research, videogames , XR technology, Web technologies
+- 💞️ I’m looking to collaborate on creating videogames , XR projects
 <!--- 📫 How to reach me on github-->
 
 <!---
