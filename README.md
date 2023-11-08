@@ -47,6 +47,8 @@ check the app live at https://art-weather.netlify.app/
 
 ### [To do List](https://github.com/a-adel-dev/To-do_list)
 
+![Image](https://onedrive.live.com/embed?resid=70D93306733CAF34%2138517&authkey=%21AOLEmO-pZ2unDt4&width=660)
+
 A to do list app with multiple project categories, and color coded tasks. created using HTML, CSS, JS, Webpack.
 
 check the app live at https://art-todo.netlify.app/
@@ -55,6 +57,8 @@ check the app live at https://art-todo.netlify.app/
 ### [Tic-Tac-Toe](https://github.com/a-adel-dev/tic-tac-toe)
 
 A simple tic tack toe game using JavaScript.
+
+![Image](https://onedrive.live.com/embed?resid=70D93306733CAF34%2138516&authkey=%21AEmaXlkpRK6Jkfs&height=256)
 
 check the game live at https://art-tic-tac-toe.netlify.app/
 <!--- 📫 How to reach me on github-->
